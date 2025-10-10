@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Laporan Tugas Praktikum
 
-| NO | Tgl       | Praktikum ke | Topik                                           | Laporan |      Link Github    |
+| NO |    | Praktikum ke | Topik                                           | Laporan |      Link Github    |
 |----|-----------|--------------|-------------------------------------------------|---------|---------------------|
-| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak](https://drive.google.com/file/d/1L-I_dVI0bwgi1NTX6eAIT7tsWFNrcqyV/view?usp=sharing)   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
-| 2  | 03-09-2025 | 01           | Widget Row dan Column |  [Laprak](https://drive.google.com/file/d/1Q7uAJEcqPGon5bqD3EWw03zhbPrOp_LS/view?usp=sharing)   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
+| 01  |  | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak](https://drive.google.com/file/d/1L-I_dVI0bwgi1NTX6eAIT7tsWFNrcqyV/view?usp=sharing)   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
+| 01 | | 01           | Widget Row dan Column |  [Laprak](https://drive.google.com/file/d/1Q7uAJEcqPGon5bqD3EWw03zhbPrOp_LS/view?usp=sharing)   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
 |   |  |            |  |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
 |   |  |            |  |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
 |   |  |            |  |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/ALLLaprak.git)    |  
