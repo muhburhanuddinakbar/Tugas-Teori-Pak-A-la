@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-Akbar is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Muh Burhanuddin Akbar_240605110016 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
