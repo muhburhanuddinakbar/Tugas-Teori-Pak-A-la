@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 | NO | Tgl       | Praktikum ke | Topik                                           | Laporan |
 |----|-----------|--------------|-------------------------------------------------|---------|
-| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |     |
+| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |
