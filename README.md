@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Laporan Tugas Praktikum
 
-| NO | Tgl       | Praktikum ke | Topik                                           | Laporan |          |
-|----|-----------|--------------|-------------------------------------------------|---------|
+| NO | Tgl       | Praktikum ke | Topik                                           | Laporan |      Link Github    |
+|----|-----------|--------------|-------------------------------------------------|---------|---------------------|
 | 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |   [Github]()    |  
