@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 | NO | Tgl       | Praktikum ke | Topik                                           | Laporan |      Link Github    |
 |----|-----------|--------------|-------------------------------------------------|---------|---------------------|
-| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |   [Github](https://github.com/muhburhanuddinakbar/modul-1)    |  
+| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak](https://drive.google.com/file/d/1L-I_dVI0bwgi1NTX6eAIT7tsWFNrcqyV/view?usp=sharing)   |   [Github]()    |  
 | 2  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup Lingkungan |  [Laprak]()   |   [Github]()    |  
