@@ -1,6 +1,7 @@
 Laporan tugas praktikum mobile programming
 
-Muh Burhanuddin Akbar_240605110016 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Muh Burhanuddin Akbar_240605110016
+laprak dan code source
 
 ### Laporan Tugas Praktikum
 
