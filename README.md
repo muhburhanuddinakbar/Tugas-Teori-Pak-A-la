@@ -3,7 +3,7 @@ Laporan tugas teori mobile programming
 Muh Burhanuddin Akbar_240605110016
 laprak dan code source
 
-### Laporan Tugas Praktikum
+### Laporan Tugas teori
 
 | NO || Praktikum ke | Topik                                           | Laporan |      Link Github    |
 |----|-----------|--------------|-------------------------------------------------|---------|---------------------|
